@@ -139,8 +139,8 @@
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-5" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="400" y="860" as="sourcePoint" />
-            <mxPoint x="500" y="860" as="targetPoint" />
+            <mxPoint x="420" y="850" as="sourcePoint" />
+            <mxPoint x="520" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-6" value="外部医学知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
