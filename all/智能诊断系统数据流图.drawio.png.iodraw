@@ -564,17 +564,17 @@
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.616;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-107" target="zRzAqlVosM2Oeiyd1iVz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-112" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="825" width="80" height="35" as="geometry" />
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-112" value="活动ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="800" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="835" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-114" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="845" width="80" height="35" as="geometry" />
+          <mxGeometry x="730" y="770" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-115" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="855" width="80" height="35" as="geometry" />
+          <mxGeometry x="605" y="850" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-116" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="720" width="80" height="35" as="geometry" />
