@@ -190,6 +190,11 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-10" target="P3FMdYgqK3nBlsqN9ba2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-30" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: left; white-space: pre-wrap;&quot;&gt;初步诊断假设&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3FMdYgqK3nBlsqN9ba2-28">
+          <mxGeometry x="-0.0514" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
