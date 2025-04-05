@@ -50,7 +50,7 @@
             <mxPoint x="230" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg0znyQXkVZb1s6NoA-Y-13" value="输入症状/反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lg0znyQXkVZb1s6NoA-Y-13" value="输入症状信息/进行反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-16" value="返回诊断建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
