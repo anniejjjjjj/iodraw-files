@@ -567,10 +567,10 @@
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-112" value="活动ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523" y="800" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-113" value="活动名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="835" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-114" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-114" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="770" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-115" value="商户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
