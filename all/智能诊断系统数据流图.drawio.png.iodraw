@@ -149,6 +149,9 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-14" value="医生确认与修正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
