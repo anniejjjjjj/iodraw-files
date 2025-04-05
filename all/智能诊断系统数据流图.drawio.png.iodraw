@@ -137,7 +137,7 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-10" value="症状分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P3FMdYgqK3nBlsqN9ba2-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-11" value="诊断建议生产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
