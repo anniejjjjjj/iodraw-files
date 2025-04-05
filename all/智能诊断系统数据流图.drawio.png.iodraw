@@ -558,7 +558,7 @@
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-101" value="骑士姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="-850" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-102" target="zRzAqlVosM2Oeiyd1iVz-9">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;shape=link;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-102" target="zRzAqlVosM2Oeiyd1iVz-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="-870" as="targetPoint" />
           </mxGeometry>
@@ -728,9 +728,9 @@
             <mxPoint x="240" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-148" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-9" target="zRzAqlVosM2Oeiyd1iVz-146">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-148" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-9" target="zRzAqlVosM2Oeiyd1iVz-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="527" y="-790" as="sourcePoint" />
+            <mxPoint x="440" y="-790" as="sourcePoint" />
             <mxPoint x="328" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
