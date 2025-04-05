@@ -190,9 +190,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="142" />
-              <mxPoint x="700" y="685" />
-              <mxPoint x="225" y="685" />
+              <mxPoint x="700" y="720" />
+              <mxPoint x="225" y="720" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3FMdYgqK3nBlsqN9ba2-39">
+          <mxGeometry x="-0.5313" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-14" value="医生确认与修正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
