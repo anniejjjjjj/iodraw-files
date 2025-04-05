@@ -657,8 +657,8 @@
             <mxPoint x="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-132" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-160" width="80" height="80" as="geometry" />
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-132" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-110" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
