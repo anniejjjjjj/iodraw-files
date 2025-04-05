@@ -307,7 +307,7 @@
           <mxGeometry x="487" y="-555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-9" value="骑士" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="-860" width="70" height="30" as="geometry" />
+          <mxGeometry x="250" y="-522.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-10" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="1230" width="70" height="30" as="geometry" />
@@ -724,7 +724,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-146" value="服务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="-602" width="80" height="35" as="geometry" />
+          <mxGeometry x="320" y="-400" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-146" target="zRzAqlVosM2Oeiyd1iVz-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
