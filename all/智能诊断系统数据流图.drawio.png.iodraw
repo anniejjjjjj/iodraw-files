@@ -14,7 +14,7 @@
           <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-4" value="智能诊断系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="lg0znyQXkVZb1s6NoA-Y-1" target="lg0znyQXkVZb1s6NoA-Y-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,9 +41,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="380" as="sourcePoint" />
             <mxPoint x="280" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="230" y="410" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.317;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lg0znyQXkVZb1s6NoA-Y-4" target="lg0znyQXkVZb1s6NoA-Y-3">
@@ -51,6 +49,9 @@
             <mxPoint x="180" y="380" as="sourcePoint" />
             <mxPoint x="230" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lg0znyQXkVZb1s6NoA-Y-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
