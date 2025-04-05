@@ -379,7 +379,7 @@
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-48" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-49" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-49" value="推广排名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-50" value="所属商户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
