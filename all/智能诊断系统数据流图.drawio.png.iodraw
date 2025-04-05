@@ -508,10 +508,12 @@
           <mxGeometry x="20" y="-240" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-84" value="金额/折扣率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-190" width="75" height="30" as="geometry" />
+          <mxGeometry x="215" y="-290" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-87" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.866;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-82" target="zRzAqlVosM2Oeiyd1iVz-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-87" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.866;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" target="zRzAqlVosM2Oeiyd1iVz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="-280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.897;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-84" target="zRzAqlVosM2Oeiyd1iVz-4">
           <mxGeometry relative="1" as="geometry" />
