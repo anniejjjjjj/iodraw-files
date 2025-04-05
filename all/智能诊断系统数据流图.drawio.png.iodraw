@@ -56,8 +56,8 @@
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-16" value="返回诊断建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lg0znyQXkVZb1s6NoA-Y-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="lg0znyQXkVZb1s6NoA-Y-20" value="提供基础数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
