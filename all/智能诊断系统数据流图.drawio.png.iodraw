@@ -164,6 +164,14 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-11" value="诊断建议生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-12" target="P3FMdYgqK3nBlsqN9ba2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3FMdYgqK3nBlsqN9ba2-33">
+          <mxGeometry x="-0.0408" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-12" value="患者/医生界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
