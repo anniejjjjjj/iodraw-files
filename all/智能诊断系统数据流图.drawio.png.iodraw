@@ -123,8 +123,8 @@
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-5" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="305" y="570" as="sourcePoint" />
-            <mxPoint x="405" y="570" as="targetPoint" />
+            <mxPoint x="200" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-6" value="外部医学知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -162,7 +162,7 @@
           <mxGeometry x="330" y="355" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-11" value="诊断建议生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-12" value="患者/医生界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
@@ -194,6 +194,9 @@
           <mxGeometry x="-0.0514" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-11" target="P3FMdYgqK3nBlsqN9ba2-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
