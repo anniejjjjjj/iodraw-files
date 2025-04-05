@@ -686,7 +686,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-136" value="拒绝或接受" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="80" width="100" height="45" as="geometry" />
+          <mxGeometry x="465" y="90" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-137" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-136" target="zRzAqlVosM2Oeiyd1iVz-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
