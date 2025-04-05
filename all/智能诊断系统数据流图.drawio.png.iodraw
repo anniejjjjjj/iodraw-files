@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_1MMivCvsEH-0TQga6j" name="第 2 页">
-    <mxGraphModel dx="853" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
           <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-14" value="医生确认与修正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-15" value="数据更新与优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="660" width="120" height="60" as="geometry" />
