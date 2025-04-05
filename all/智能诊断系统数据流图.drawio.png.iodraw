@@ -110,8 +110,14 @@
             <mxPoint x="140" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P3FMdYgqK3nBlsqN9ba2-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-4" value="外部病例库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-5" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="250" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
