@@ -194,8 +194,9 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-13" value="患者反馈处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P3FMdYgqK3nBlsqN9ba2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-14" target="P3FMdYgqK3nBlsqN9ba2-4">
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="142" />
               <mxPoint x="700" y="720" />
