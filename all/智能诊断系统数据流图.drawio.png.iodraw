@@ -77,9 +77,12 @@
         </mxCell>
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-35" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="230" y="370" as="sourcePoint" />
-            <mxPoint x="330" y="370" as="targetPoint" />
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lg0znyQXkVZb1s6NoA-Y-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
