@@ -81,7 +81,7 @@
             <mxPoint x="380" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg0znyQXkVZb1s6NoA-Y-36" value="外部医学知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lg0znyQXkVZb1s6NoA-Y-36" value="外部医学知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
