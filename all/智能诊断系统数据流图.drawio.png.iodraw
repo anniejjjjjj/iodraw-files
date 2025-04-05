@@ -177,7 +177,15 @@
           <mxGeometry x="707" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-23" value="病例信息获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.649;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-23" target="P3FMdYgqK3nBlsqN9ba2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-25" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: left; white-space: pre-wrap;&quot;&gt;病历信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3FMdYgqK3nBlsqN9ba2-24">
+          <mxGeometry x="-0.1435" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
