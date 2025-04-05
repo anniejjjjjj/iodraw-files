@@ -547,12 +547,12 @@
           <mxGeometry x="40" y="850" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-106" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1000" width="76" height="30" as="geometry" />
+          <mxGeometry x="504" y="930" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-107" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1010" width="76" height="30" as="geometry" />
+          <mxGeometry x="409" y="960" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-108" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-108" value="管理员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="920" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
