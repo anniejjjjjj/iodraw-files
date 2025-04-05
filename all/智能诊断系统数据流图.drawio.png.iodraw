@@ -150,6 +150,11 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-9" target="P3FMdYgqK3nBlsqN9ba2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-22" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: left; white-space: pre-wrap;&quot;&gt;结构化症状数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3FMdYgqK3nBlsqN9ba2-21">
+          <mxGeometry x="0.0493" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-9" value="临时症状库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="360" width="70" height="30" as="geometry" />
         </mxCell>
