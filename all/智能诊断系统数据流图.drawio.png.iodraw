@@ -733,7 +733,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-149" value="接取" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="100" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-150" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-149" target="zRzAqlVosM2Oeiyd1iVz-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="550" as="sourcePoint" />
+            <mxPoint x="150" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
