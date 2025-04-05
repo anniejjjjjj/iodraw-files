@@ -802,7 +802,7 @@
             <mxPoint x="810" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRzAqlVosM2Oeiyd1iVz-161" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-161" value="处理纠纷" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
