@@ -292,10 +292,10 @@
           <mxGeometry x="260" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-4" value="优惠券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="470" width="70" height="30" as="geometry" />
+          <mxGeometry x="310" y="870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-5" value="促销活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="590" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-6" value="商户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="125" width="70" height="30" as="geometry" />
@@ -304,7 +304,7 @@
           <mxGeometry x="230" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-8" value="配送任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="650" width="70" height="30" as="geometry" />
+          <mxGeometry x="413" y="840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-9" value="骑士" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="740" width="70" height="30" as="geometry" />
@@ -443,6 +443,9 @@
         </mxCell>
         <mxCell id="zRzAqlVosM2Oeiyd1iVz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.152;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRzAqlVosM2Oeiyd1iVz-63" target="zRzAqlVosM2Oeiyd1iVz-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRzAqlVosM2Oeiyd1iVz-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
