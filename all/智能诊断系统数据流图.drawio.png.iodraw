@@ -56,9 +56,6 @@
         <mxCell id="lg0znyQXkVZb1s6NoA-Y-16" value="返回诊断建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lg0znyQXkVZb1s6NoA-Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg0znyQXkVZb1s6NoA-Y-16" target="lg0znyQXkVZb1s6NoA-Y-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
