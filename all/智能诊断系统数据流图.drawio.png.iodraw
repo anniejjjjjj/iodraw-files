@@ -130,6 +130,9 @@
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-6" value="外部医学知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="540" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P3FMdYgqK3nBlsqN9ba2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3FMdYgqK3nBlsqN9ba2-7" target="P3FMdYgqK3nBlsqN9ba2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P3FMdYgqK3nBlsqN9ba2-7" value="患者症状输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
